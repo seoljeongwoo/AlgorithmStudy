@@ -51,7 +51,6 @@ for start in range(0,size,4):
     if correctCount == 0 :
         result = False
 
-print(codeNumber)
 print("BEER!!" if result == True and codeNumber % 6 == 0 else "BOOM!!")
 
 '''
