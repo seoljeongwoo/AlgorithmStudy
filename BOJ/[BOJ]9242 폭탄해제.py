@@ -57,7 +57,3 @@ print("BEER!!" if result == True and codeNumber % 6 == 0 else "BOOM!!")
 문자로 이루어진 숫자를 추출하는 방법이 어려웠음.
 직접 숫자에 해당하는 문자를 미리 집어넣지않고 해결할수 있을까?
 '''
-<<<<<<< HEAD
-
-=======
->>>>>>> af0d197db3587cfdbe9478944a3e04b3cbb8c29d
