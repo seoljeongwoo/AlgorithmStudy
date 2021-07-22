@@ -7,7 +7,6 @@ cnt = [0]*(max(lst)+1)
 
 lp,rp,ret=0,0,0
 while rp < N:
-    print(lp,rp)
     if cnt[lst[rp]] < K:
         cnt[lst[rp]] += 1
         rp +=1
