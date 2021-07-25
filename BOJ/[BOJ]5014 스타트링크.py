@@ -21,7 +21,6 @@ while que:
         if vis[next_downstair] == -1:
             vis[next_downstair] = vis[curr] + 1
             que.append(next_downstair)
-print(vis)
 print(vis[G] if vis[G] != -1 else 'use the stairs')
 
 
