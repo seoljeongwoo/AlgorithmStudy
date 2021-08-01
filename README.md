@@ -12,7 +12,7 @@
 
 ## 2021/07/26 ~ 28
 
-|번호 | 문제 이름 |
+| 번호 | 문제 이름 |
 |:----:|:---------:|
 | [4659](https://www.acmicpc.net/problem/4659) | [비밀번호 발음하기](https://www.acmicpc.net/problem/4659) |
 | [15787](https://www.acmicpc.net/problem/15787) | [기차가 어둠을 헤치고 은하수를](https://www.acmicpc.net/problem/15787) |
