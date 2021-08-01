@@ -8,7 +8,6 @@ for _ in range(N):
     lst.append((st, 1))
     lst.append((en,-1))
 lst.sort()
-print(lst)
 room , ret = 0, 0
 for index, data in enumerate(lst):
     room += data[1]
