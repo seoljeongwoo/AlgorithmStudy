@@ -1,6 +1,15 @@
 # AlgorithmStudy
 알고리즘 스터디
 
+## 2021/08/10 ~ 08/11
+
+| 번호 | 문제 이름 |
+|:----:|:---------:|
+| [14594](https://www.acmicpc.net/problem/14594) | [동방 프로젝트 (Small)](https://www.acmicpc.net/problem/14594) |
+| [11057](https://www.acmicpc.net/problem/11057) | [오르막 수](https://www.acmicpc.net/problem/11057) |
+| [17404](https://www.acmicpc.net/problem/17404) | [RGB거리 2](https://www.acmicpc.net/problem/17404) |
+| [20327](https://www.acmicpc.net/problem/20327) | [배열 돌리기 6](https://www.acmicpc.net/problem/20327) |
+
 ## 2021/08/05 ~ 08/07
 
 | 번호 | 문제 이름 |
