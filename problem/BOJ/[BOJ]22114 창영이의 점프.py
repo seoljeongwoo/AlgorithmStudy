@@ -20,7 +20,6 @@ for i in range(N-1,0,-1):
         A[i] = prev
 
 ans = 0
-print(A)
 for i in range(1,N):
     if A[i] == 0:
         ans = max(ans, A[i-1] + A[i+1] + 1)
