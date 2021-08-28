@@ -3,7 +3,9 @@ input = sys.stdin.readline
 
 N,K = map(int,input().rstrip('\n').split())
 lst = list(map(int,input().rstrip('\n').split()))
-
+if sum(lst) < K:
+    print(-1)
+    exit(0)
 DP = [float('inf')] * (K+1)
 DP[0] = 0
 for c in lst:
