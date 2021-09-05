@@ -15,7 +15,6 @@ for d in range(max(day) , 0, -1):
         if flag[i] == False and day[i] >= d:
             if pick == -1: pick = i
             else: pick = pick if point[pick] >= point[i] else i
-    print(pick)
     if pick != -1:
         flag[pick] = True
         ret += point[pick]
