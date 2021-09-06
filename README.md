@@ -1,6 +1,20 @@
 # AlgorithmStudy
 알고리즘 스터디
 
+## 2021/09/07 ~ 09/11
+
+| 번호 | 문제 이름 |
+|:----:|:---------:|
+| [22232](https://www.acmicpc.net/problem/22232) | [가희와 파일 탐색기](https://www.acmicpc.net/problem/22232) |
+| [22233](https://www.acmicpc.net/problem/22233) | [가희와 키워드](https://www.acmicpc.net/problem/22233) |
+| [22234](https://www.acmicpc.net/problem/22234) | [가희와 은행](https://www.acmicpc.net/problem/22234) |
+| [22235](https://www.acmicpc.net/problem/22235) | [가희와 btd5](https://www.acmicpc.net/problem/22235) |
+| [22236](https://www.acmicpc.net/problem/22236) | [가희와 수인 분당선 1](https://www.acmicpc.net/problem/22236) |
+| [22237](https://www.acmicpc.net/problem/22237) | [가희와 비행기](https://www.acmicpc.net/problem/22237) |
+| [22238](https://www.acmicpc.net/problem/22238) | [가희와 거북이 인형](https://www.acmicpc.net/problem/22238) |
+| [22239](https://www.acmicpc.net/problem/22239) | [가희와 읽기 쓰기 놀이 2](https://www.acmicpc.net/problem/22239) |
+
+
 ## 2021/08/10 ~ 08/11
 
 | 번호 | 문제 이름 |
