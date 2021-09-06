@@ -2,7 +2,7 @@
 알고리즘 스터디
 
 ## 2021/09/07 ~ 09/11
-asd
+
 | 번호 | 문제 이름 |
 |:----:|:---------:|
 | [22232](https://www.acmicpc.net/problem/22232) | [가희와 파일 탐색기](https://www.acmicpc.net/problem/22232) |
